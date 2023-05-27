@@ -90,8 +90,8 @@ export default function EditarPerfil() {
 
 
 
-  const preset_key = "hsthxqyw"
-  const cloud_name = "dg8yqncy0"
+  const preset_key = "XXXXXXX"
+  const cloud_name = "XXXXXXX"
   const [image, setImage] = useState()
   const [fotoRuta, setFotoRuta] = React.useState("");
 
