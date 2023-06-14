@@ -306,6 +306,8 @@ Se han realizado bocetos con Figma con la idea básica de como será la aplicaci
 
 <h2><li>Resultado final: vídeo youtube y repositorio</li></h2>
 Repositorio Github: https://github.com/chemiya/PR-19-TUTORUVA.git
+    
+Video Youtube: https://www.youtube.com/watch?v=PTXJppCqjXs
 
 
 <h2><li>Conclusiones</li></h2>
